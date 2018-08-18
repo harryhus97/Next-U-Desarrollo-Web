@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 74 52"
+   height="52mm"
+   width="74mm">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient843">
+      <stop
+         id="stop839"
+         offset="0"
+         style="stop-color:#21daa1;stop-opacity:1;" />
+      <stop
+         id="stop841"
+         offset="1"
+         style="stop-color:#0e211c;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="120.8631"
+       x2="194.27977"
+       y1="58.875"
+       x1="47.125"
+       id="linearGradient845"
+       xlink:href="#linearGradient843" />
+    <clipPath
+       id="clipPath855"
+       clipPathUnits="userSpaceOnUse">
+      <flowRoot
+         transform="matrix(0.56915635,0,0,0.56085182,-29.41407,-78.216546)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.66665649px;line-height:1.25;font-family:'Rubik One';-inkscape-font-specification:'Rubik One';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot863"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.66665649px;font-family:'Rubik One';-inkscape-font-specification:'Rubik One'"
+           id="flowRegion859"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.66665649px;font-family:'Rubik One';-inkscape-font-specification:'Rubik One'"
+             y="208.23398"
+             x="82.85714"
+             height="194.28572"
+             width="625.71429"
+             id="rect857" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.66665649px;font-family:'Rubik One';-inkscape-font-specification:'Rubik One'"
+           id="flowPara861">HBS</flowPara></flowRoot>    </clipPath>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-245)"
+     id="layer1">
+    <rect
+       transform="matrix(0.40591424,0,0,0.55516013,-5.6995387,225.92145)"
+       clip-path="url(#clipPath855)"
+       y="37.708332"
+       x="16.630953"
+       height="83.154762"
+       width="177.64882"
+       id="rect815"
+       style="opacity:0.52899996;fill:url(#linearGradient845);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+  </g>
+</svg>
